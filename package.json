@@ -1,0 +1,12 @@
+{
+  "name": "javascriptcurso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "saludar":"node holamundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "djorda",
+  "license": "ISC"
+}
